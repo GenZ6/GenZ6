@@ -67,9 +67,6 @@ I have a strong foundation in **problem-solving** and logical thinking — shape
 
 <div align="center">
 
-*Built with curiosity, caffeine, and a Rubik's cube nearby* 🟧
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gauthamrendhir.gauthamrendhir)
 
 </div>
 
