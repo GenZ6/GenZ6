@@ -64,7 +64,13 @@ I have a strong foundation in **problem-solving** and logical thinking — shape
 - 💼 **LinkedIn:** [gautham-rendhir](https://www.linkedin.com/in/gautham-rendhir-74575b3a3/)
 
 ---
+## 🌐 Portfolio
 
+Check out my personal portfolio site 👇
+
+[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-00f5c4?style=for-the-badge&logoColor=black)](https://genz6.github.io/GenZ6/)
+
+---
 <div align="center">
 
 
@@ -76,11 +82,5 @@ I have a strong foundation in **problem-solving** and logical thinking — shape
 
 
 
-## 🌐 Portfolio
 
-Check out my personal portfolio site 👇
-
-[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-00f5c4?style=for-the-badge&logoColor=black)](https://gauthamrendhir.github.io/portfolio)
-
----
 
