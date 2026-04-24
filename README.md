@@ -1,39 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5c4,100:7b61ff&height=200&section=header&text=Gautham%20Rendhir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Coder%20%7C%20Problem%20Solver%20%7C%20EL%20%40%20CET&descAlignY=58&descColor=cccccc" />
+# 👋 Hey, I'm Gautham Rendhir
 
-</div>
-
----
-
-<div align="center">
+### 🎓 EL @ CET · Coder · Problem Solver · Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-rendhir-74575b3a3/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamrendhir112@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5c4?style=for-the-badge&logo=github&logoColor=black)](https://gauthamrendhir.github.io/portfolio)
-[![Phone](https://img.shields.io/badge/+91%2089211%2073411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918921173411)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamrendhir112@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918921173411)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```python
-class GauthamRendhir:
-    name       = "Gautham Rendhir"
-    college    = "College of Engineering Trivandrum (CET)"
-    branch     = "Electrical & Computer Engineering (EL)"
-    year       = "First Year"
-    location   = "Trivandrum, Kerala, India 🇮🇳"
-    passion    = "Coding & Problem Solving"
-    hobbies    = ["Tennis 🎾", "World Flags 🌍", "Rubik's Cube 🟧", "Sudoku 🔢"]
-    quote      = "Every problem is just a puzzle waiting to be solved."
-```
+I'm a **first-year Electrical and Computer Engineering student** at the prestigious **College of Engineering Trivandrum (CET)**, Kerala. I'm deeply passionate about coding and love turning logic into working solutions.
+
+When I'm not writing code, you'll find me:
+
+- 🎾 Swinging on the **tennis court**
+- 🌍 Memorizing **flags of every country** in the world
+- 🟧 Twisting a **Rubik's cube** back to perfection
+- 🔢 Cracking **Sudoku** puzzles with pure logic
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <div align="center">
 
@@ -46,34 +38,46 @@ class GauthamRendhir:
 
 ---
 
+## 🧠 What Drives Me
+
+> *"Every problem is just a puzzle waiting to be solved."*
+
+I have a strong foundation in **problem-solving** and logical thinking — shaped by years of sudoku, Rubik's cubes, and competitive coding challenges. I believe great engineers aren't just coders; they're creative thinkers who can break down complexity and rebuild it elegantly.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauthamrendhir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00f5c4&icon_color=7b61ff&text_color=e8e8f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamrendhir&layout=compact&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00f5c4&text_color=e8e8f0" height="165"/>
+![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamrendhir&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamrendhir&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [gauthamrendhir112@gmail.com](mailto:gauthamrendhir112@gmail.com)
+- 📱 **Phone:** +91 89211 73411
+- 💼 **LinkedIn:** [gautham-rendhir](https://www.linkedin.com/in/gautham-rendhir-74575b3a3/)
+
+---
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gauthamrendhir&theme=tokyonight&hide_border=true&background=060610&ring=00f5c4&fire=7b61ff&currStreakLabel=00f5c4)
+*Built with curiosity, caffeine, and a Rubik's cube nearby* 🟧
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gauthamrendhir.gauthamrendhir)
 
 </div>
 
----
 
-## 🎯 What Drives Me
 
-> I believe great engineers aren't just coders — they're **creative thinkers** who break down complexity and rebuild it elegantly.
 
-My problem-solving mindset has been sharpened through years of:
-- 🟧 Solving **Rubik's cubes** under time pressure
-- 🔢 Cracking **Sudoku** puzzles with pure logic
-- 🌍 Memorising every **country's flag** in the world
-- 🎾 Competing on the **tennis court**
 
----
+
 
 ## 🌐 Portfolio
 
@@ -83,22 +87,3 @@ Check out my personal portfolio site 👇
 
 ---
 
-## 📫 Get in Touch
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [gauthamrendhir112@gmail.com](mailto:gauthamrendhir112@gmail.com) |
-| 📱 Phone | +91 89211 73411 |
-| 💼 LinkedIn | [gautham-rendhir](https://www.linkedin.com/in/gautham-rendhir-74575b3a3/) |
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:00f5c4&height=100&section=footer" />
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gauthamrendhir.gauthamrendhir)
-
-</div>
