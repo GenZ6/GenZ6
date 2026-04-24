@@ -97,7 +97,7 @@ Check out my personal portfolio site 👇
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,100:00f5c4&height=100&section=footer" />
 
-*Built with curiosity, caffeine, and a Rubik's cube nearby 🟧*
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gauthamrendhir.gauthamrendhir)
 
